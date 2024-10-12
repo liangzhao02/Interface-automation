@@ -1,5 +1,3 @@
-from tokenize import cookie_re
-
 import requests
 
 # 添加path参数
